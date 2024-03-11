@@ -10,9 +10,7 @@ Este repositório contém exemplos e exercícios para ajudá-lo(a) a aprender pr
 
 3. **Algoritmos Básicos**: Neste diretório, você encontrará exemplos de algoritmos básicos, como ordenação e pesquisa, implementados em Java.
 
-4. **Exercícios**: Este diretório contém uma variedade de exercícios para praticar os conceitos aprendidos. Cada exercício possui sua própria pasta e um arquivo README.md com uma descrição do problema.
+4. **Exercícios**: Este diretório contém uma variedade de exercícios para praticar os conceitos aprendidos.
 
-## Como usar este repositório
 
-Você pode clonar este repositório para o seu ambiente local usando o seguinte comando:
 
